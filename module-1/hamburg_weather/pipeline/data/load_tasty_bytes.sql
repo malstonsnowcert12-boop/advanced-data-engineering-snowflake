@@ -2,7 +2,7 @@ USE ROLE accountadmin;
 
 
 /*--
-database, schema and warehouse creation
+database, schema and warehouse creation fix
 --*/
 
 
